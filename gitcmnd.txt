@@ -1,0 +1,16 @@
+1.create a folder
+2.creat a file to uplaod 
+3.creat a new repository in github
+4.copy the url
+5.go on cmd and set path to the folder
+6.check git version git --version
+7.git init
+8.git config user.email ""
+9.git config user.name ""
+10.git add .
+11.git status 
+12.git remote add origin "paste url here"
+13.git commit -m "msg"
+14.git status
+15.git push -u origin branch
+16.check if file get pushed
